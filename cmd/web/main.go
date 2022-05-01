@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Dragonization/bookings/config"
-	"github.com/Dragonization/bookings/handlers"
+	"github.com/Dragonization/bookings/pkg/config"
+	"github.com/Dragonization/bookings/pkg/handlers"
 	"github.com/Dragonization/bookings/pkg/render"
 	scs "github.com/alexedwards/scs/v2"
 )
